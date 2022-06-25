@@ -33,6 +33,9 @@ namespace ULearn
                 double b = double.Parse(Console.ReadLine());
                 double c = double.Parse(Console.ReadLine());
                 Geron(a, b, c);
+            } else
+            {
+                Console.WriteLine("Введеное число неверное");
             }
         }
         public static void Geron(double a, double b, double c)
