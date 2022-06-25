@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OBGLAgzBt85bCnrWMi90Nohb6higJ/wsqqDkzhiZ+4lD9RE5sKC4Lofgd/1PxP6pmycRLuvMPBco41lD1VUSOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Олег\\source\\repos\\ULearn\\ULearn\\ULearn.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Олег\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
